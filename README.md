@@ -1,7 +1,7 @@
 # Vladimír Záhradník
 ![Systems Architect](https://img.shields.io/badge/Systems%20Architect-blue)
 ![Consultant](https://img.shields.io/badge/Consultant-orange)
-![Open-Source Contributor](https://img.shields.io/badge/Open%E2%80%91Source%20Contributor-black)
+![Open-Source Contributor](https://img.shields.io/badge/Open%E2%80%91Source%20Contributor-gold)
 ![Profile Photo](https://github.com/user-attachments/assets/4803807e-098c-47c6-9194-8cc79aef9073)
 
 I help founders and engineering teams bring **clarity into complexity** — designing systems that scale without losing coherence, and processes that work with reality rather than against it.
