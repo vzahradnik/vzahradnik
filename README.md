@@ -92,3 +92,5 @@ Each piece distills complexity into something simple enough to act upon — and 
 ---
 
 If you’re building something ambitious and want a partner who sees **the whole system — not just the parts**, feel free to reach out.
+<img width="200" alt="vzahradnik-logo" src="https://github.com/user-attachments/assets/eba92016-ea75-4654-8eee-243e4d13e357" />
+
